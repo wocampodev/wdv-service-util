@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker stop mysql-8-sandbox
+docker stop mysql-8
